@@ -48,4 +48,4 @@ img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 - **iteration**：建議1~3
 
-- **KERNEL_SIZE**：建議3~5
+- **KERNEL_SIZE**：建議3、5
